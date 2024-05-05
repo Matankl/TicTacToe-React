@@ -1,3 +1,6 @@
+
+// it is the bridge between the component you created in the App.js file and the web browser.
+
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
